@@ -27,3 +27,5 @@ Definir _Data frame, árboles_
 _Milestones_
 
 Formato para escrbir código: ```cout<<xd```
+
+PLAZO PARA EL DIAGRAMA DE CLASES: JUEVES 6
