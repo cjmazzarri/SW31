@@ -26,6 +26,10 @@ Definir _Data frame, árboles_
 ### Cronograma de trabajo
 _Milestones_
 
-Formato para escrbir código: ```cout<<xd```
+Formatos: 
+```cout<<xd```
+~hola~
+*asdf*
 
 PLAZO PARA EL DIAGRAMA DE CLASES: JUEVES 6
+
